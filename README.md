@@ -1,5 +1,5 @@
-# do pobrania pliku z danycmi:
+## do pobrania pliku z danymi:
 uv run python download_test_data.py
 
-# do testów:
+## do testów:
 uv run pytest
