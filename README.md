@@ -1,5 +1,5 @@
 ## do pobrania pliku z danymi:
-uv run python download_test_data.py
+`uv run python download_test_data.py`
 
 ## do testów:
-uv run pytest
+`uv run pytest`
