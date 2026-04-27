@@ -7,4 +7,4 @@
 ## do testów:
 `uv run pytest`
 
-### dodatkowo utwórz plik .env z zawartością .env.example
+dodatkowo utwórz plik .env z zawartością .env.example
